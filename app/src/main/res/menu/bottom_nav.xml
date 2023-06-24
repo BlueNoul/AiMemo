@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_board"
+        android:icon="@drawable/nav_menu"
+        android:title="board" />
+
+    <item
+        android:id="@+id/menu_write"
+        android:icon="@drawable/nav_memo"
+        android:title="write" />
+
+    <item
+        android:id="@+id/menu_cale"
+        android:icon="@drawable/nav_cale"
+        android:title="calendar" />
+    <item
+        android:id="@+id/menu_option"
+        android:icon="@drawable/nav_option"
+        android:title="options" />
+</menu>
